@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+pandas
+fuzzywuzzy
+python-Levenshtein
+openpyxl
