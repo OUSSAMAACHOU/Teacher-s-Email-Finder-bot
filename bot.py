@@ -9,7 +9,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger()
 
 # Replace 'YOUR_API_TOKEN' with your actual Telegram API token
-API_TOKEN = '7534395898:AAGO6shbvpuJPFAa-hL2TL55iZD205NrSt8'
+API_TOKEN = 'API_TOKEN'
 bot = telebot.TeleBot(API_TOKEN)
 
 # Load teacher information from Excel files
